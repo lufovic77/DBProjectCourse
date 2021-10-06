@@ -1,0 +1,4 @@
+page        index   level   data    free    records 
+3           42      1       28      16224   2       
+4           42      0       7481    8735    72      
+5           42      0       13376   2814    128     

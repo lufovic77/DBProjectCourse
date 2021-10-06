@@ -1,0 +1,19 @@
+
+# Parsing Result
+Total number of pages = 26363
+Total free space = 64608393
+Average free space per page = 2450 (14.96%)
+
+- Leaf Pages
+Total number of pages = 26325
+Total free space = 64531821
+Average free space per page = 2451 (14.96%)
+Min free space = 58
+Max free space = 16384
+
+- Non-leaf Pages
+Total number of pages = 38
+Total free space = 76572
+Average free space per page = 2015 (12.30%)
+Min free space = 11
+Max free space = 15904
